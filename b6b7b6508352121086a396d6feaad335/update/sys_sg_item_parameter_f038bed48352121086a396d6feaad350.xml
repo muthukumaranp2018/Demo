@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Configuration Item attributes</name>
+        <parent>b438bed48352121086a396d6feaad32c</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 05:03:22</sys_created_on>
+        <sys_id>f038bed48352121086a396d6feaad350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Configuration Item attributes</sys_name>
+        <sys_package display_value="Mobile gent" source="x_805257_mobile_ge">b6b7b6508352121086a396d6feaad335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile gent">b6b7b6508352121086a396d6feaad335</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_f038bed48352121086a396d6feaad350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 05:03:22</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Configuration Item)">cd38bed48352121086a396d6feaad3eb</button>
+        <item_parameter display_value="Configuration Item can_print">4938bed48352121086a396d6feaad3e8</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 05:03:23</sys_created_on>
+        <sys_id>0d38fed48352121086a396d6feaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4938bed48352121086a396d6feaad3e8</sys_name>
+        <sys_package display_value="Mobile gent" source="x_805257_mobile_ge">b6b7b6508352121086a396d6feaad335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile gent">b6b7b6508352121086a396d6feaad335</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_0d38fed48352121086a396d6feaad316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 05:03:23</sys_updated_on>
+        <ui_parameter display_value="Can Print">8538fed48352121086a396d6feaad303</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_805257_mobile_ge.mobile" name="x_805257_mobile_ge.mobile">7ec7fad08352121086a396d6feaad38e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 05:01:37</sys_created_on>
+        <sys_id>8bc7fad08352121086a396d6feaad392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7ec7fad08352121086a396d6feaad38e</sys_name>
+        <sys_package display_value="Mobile gent" source="x_805257_mobile_ge">b6b7b6508352121086a396d6feaad335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile gent">b6b7b6508352121086a396d6feaad335</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8bc7fad08352121086a396d6feaad392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 05:01:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

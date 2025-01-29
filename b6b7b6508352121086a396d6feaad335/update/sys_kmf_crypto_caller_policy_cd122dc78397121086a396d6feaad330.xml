@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="instance_level_glide_encrypter">401fa53c5b6220106cdba88ddc81c754</crypto_module>
+        <crypto_spec display_value="instance_level_glide_encrypter --- Symmetric Key Wrapping/Unwrapping">9e1f293c5b6220106cdba88ddc81c797</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>5c9d687f1b39c2d8168f4089bd4bcbe3</owner>
+        <policy_name>AutoGen-scope-x_805257_mobile_ge-instance_level_glide_encrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 04:53:11</sys_created_on>
+        <sys_id>cd122dc78397121086a396d6feaad330</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile gent" source="x_805257_mobile_ge">b6b7b6508352121086a396d6feaad335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile gent">b6b7b6508352121086a396d6feaad335</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_cd122dc78397121086a396d6feaad330</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 04:53:11</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="Mobile gent">b6b7b6508352121086a396d6feaad335</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
